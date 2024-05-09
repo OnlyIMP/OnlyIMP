@@ -15,7 +15,8 @@ I am currently working on developing script for my self.
 📫 How to reach me:
 - 🎮 Discord: **OnlyImp**
 
-![OnlyImp GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyImp&show_icons=true&theme=algumtema)
+![OnlyImp GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyImp&show_icons=true&theme=algumtema) 
+\n
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnlyImp&theme=algumtema)
 
 
