@@ -13,7 +13,7 @@ I am currently working on developing script for my self.
 ⚡ Fun fact: I love play games 🤓
 
 📫 How to reach me:
-- ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white): **OnlyImp**
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white) **OnlyImp**
 
 ![OnlyImp GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyImp&show_icons=true&theme=algumtema) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnlyImp&theme=algumtema)
