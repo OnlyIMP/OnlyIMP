@@ -13,10 +13,12 @@ I am currently working on developing script for my self.
 ⚡ Fun fact: I love play games 🤓
 
 📫 How to reach me:
-- 🎮 Discord: **OnlyImp**
+- ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white): **OnlyImp**
 
 ![OnlyImp GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyImp&show_icons=true&theme=algumtema) 
-\n
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnlyImp&theme=algumtema)
 
+
+Coding languages that I use:
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 
