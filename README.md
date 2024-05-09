@@ -20,5 +20,6 @@ I am currently working on developing script for my self.
 
 
 Coding languages that I use:
-- ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python) ![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
