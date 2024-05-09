@@ -1,6 +1,6 @@
 Hi there, I'm Pedro Freitas - OnlyImp 👋
 
-I am a 23 year old boy and coding student whose dream is to work in a big tech like Google. Every day I work hard to make it happen 💪🏻
+I am a 23 year old, coding student whose dream is to work in a big tech like Google. Every day I work hard to make it happen 💪🏻
 
 I am currently working on developing script for my self.
 
